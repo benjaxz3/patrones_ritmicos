@@ -8,7 +8,7 @@ st.set_page_config(page_title="Idea de Investigación en Ciencia de Datos", layo
 st.markdown("""
 <div style="display:flex; justify-content:center;">
     <img src="https://www.superprof.cl/blog/wp-content/uploads/2019/11/costo-primera-bateria.jpg"
-         style="width:100%; max-height:750px; object-fit:cover; border-radius:10px;">
+         style="width:100%; max-height:400px; object-fit:cover; border-radius:10px;">
 </div>
 """, unsafe_allow_html=True)
 
