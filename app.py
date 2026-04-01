@@ -50,6 +50,7 @@ if seleccion == "Idea":
     computacional. Sus resultados podrían aplicarse en sistemas de recomendación musical, herramientas 
     educativas para músicos o generación automática de ritmos en producción musical.
     """)
+    
 elif seleccion == "Idea":
     st.header("Palabras Clave")
     
