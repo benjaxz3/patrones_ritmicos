@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Idea de Investigación en Ciencia de Datos", layout="wide")
 
-st.title("Análisis de Patrones Rítmicos de Batería con Ciencia de Datos")
+st.title("Análisis de Patrones Rítmicos de Batería")
 
 st.header("Área")
 st.write("Procesamiento de Audio")
