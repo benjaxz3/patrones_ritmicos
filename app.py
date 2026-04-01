@@ -12,7 +12,6 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.title("Análisis de Patrones Rítmicos de Batería")
 # --- MENÚ LATERAL ---
 with st.sidebar:
     st.title("Análisis de Patrones Rítmicos de Batería")
