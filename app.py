@@ -15,7 +15,7 @@ st.markdown("""
 st.title("Análisis de Patrones Rítmicos de Batería")
 
 st.header("Área")
-st.write("Procesamiento de Audio (Ciencias de la Computación e Información) / ODS 4 Educacion de calidad y ODS 9 Industria, Innovación e Infraestructura")
+st.write("OCDE (Ciencias de la Computación e Información) / ODS 4 Educacion de calidad y ODS 9 Industria, Innovación e Infraestructura")
 
 st.header("Idea de Investigación")
 st.write("""
