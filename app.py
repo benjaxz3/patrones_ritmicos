@@ -60,6 +60,7 @@ st.subheader("Expansión con IA")
 st.write("""
 - Drum pattern recognition
 - Rhythmic feature extraction
+- Machine learning
 - Tempo detection
 - Onset detection
 - Computational musicology
