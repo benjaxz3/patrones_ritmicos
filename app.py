@@ -27,10 +27,6 @@ Actualmente existen grandes colecciones de música digital, pero el análisis au
 rítmico de baterías sigue siendo limitado. Identificar patrones característicos de ejecución podría 
 permitir clasificar géneros musicales, detectar estilos de bateristas o incluso generar nuevos 
 ritmos mediante modelos de aprendizaje automático.
-
-El desafío consiste en extraer características relevantes del audio, como tempo, intensidad, 
-patrones de golpes y sincronización, para luego aplicar algoritmos de clasificación o clustering 
-que permitan identificar similitudes entre patrones rítmicos.
 """)
 
 st.header("Relevancia")
