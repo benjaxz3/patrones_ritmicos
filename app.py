@@ -10,7 +10,7 @@ st.write("Procesamiento de Audio")
 st.header("Idea de Investigación")
 st.write("""
 Uso de modelos de aprendizaje automático para analizar y clasificar patrones rítmicos de batería 
-en música moderna mediante técnicas de procesamiento de audio y extracción de características.
+en música.
 """)
 
 st.header("Fundamento o Motivación")
