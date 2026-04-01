@@ -50,14 +50,10 @@ st.header("Palabras Clave")
 
 st.subheader("Lista inicial")
 st.write("""
-- Drum patterns
-- Rhythm analysis
-- Music data mining
-- Audio signal processing
-- Machine learning for music
-- Beat detection
-- Rhythm classification
-- Music information retrieval
+- Patrones de bateria
+- Analisis de ritmos
+- Procesamiento de audio
+- Clasificacion de ritmos
 """)
 
 st.subheader("Expansión con IA")
