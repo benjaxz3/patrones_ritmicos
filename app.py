@@ -12,12 +12,8 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# --- MENÚ LATERAL ---
-with st.sidebar:
     st.title("Análisis de Patrones Rítmicos de Batería")
-    seleccion = st.radio("Ir a:", ["Idea", "Palabras clave"])
 
-if seleccion == "Idea":
     st.header("Área")
     st.write("Procesamiento de Audio (Ciencias de la Computación e Información) / ODS 4 Educacion de calidad y ODS 9 Industria, Innovación e Infraestructura")
 
@@ -50,7 +46,6 @@ if seleccion == "Idea":
     educativas para músicos o generación automática de ritmos en producción musical.
     """)
     
-elif seleccion == "Idea":
     st.title("Palabras Clave")
     
     st.subheader("Lista inicial")
