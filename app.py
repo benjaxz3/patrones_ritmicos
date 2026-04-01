@@ -29,6 +29,9 @@ La batería es el elemento central del ritmo en muchos géneros musicales. Sin e
 del estilo rítmico suele depender principalmente de la percepción humana. Mediante técnicas de 
 Ciencia de Datos y procesamiento de audio es posible extraer características rítmicas automáticamente 
 y analizar patrones de ejecución entre distintos bateristas o géneros musicales.
+
+El desafío consiste en extraer características relevantes del audio (tempo, intensidad, patrón de golpes, sincronización) 
+y utilizar modelos de clasificación o clustering para identificar similitudes y diferencias entre patrones rítmicos.
 """)
     
 st.header("Descripción del Problema")
