@@ -51,7 +51,7 @@ if seleccion == "Idea":
     """)
     
 elif seleccion == "Idea":
-    st.header("Palabras Clave")
+    st.title("Palabras Clave")
     
     st.subheader("Lista inicial")
     st.write("""
